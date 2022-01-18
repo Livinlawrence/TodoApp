@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">AndroidMVVMToDoApp</string>
+
+    <string name="title_login">Login</string>
+    <string name="title_Home">Home</string>
+    <string name="title_add_todo">Add Todo</string>
+
+    <string name="something_went_wrong">Something went wrong, please try again later</string>
+    <string name="invalid_email_or_password">Invalid email or password</string>
+    <string name="fields_must_not_empty">Email and Password must not be empty </string>
+    <string name="invalid_email_address">Invalid email address</string>
+    <string name="loggedin_successfully">Successfully logged in</string>
+    <string name="message_title_is_mandatory">Title is mandatory</string>
+    <string name="message_date_is_mandatory">Date is mandatory</string>
+    <string name="message_time_is_mandatory">Time is mandatory</string>
+    <string name="message_pls_select_todo_type">Please select repeat frequency</string>
+
+    <string name="label_password">Password</string>
+    <string name="label_email">Email</string>
+    <string name="label_daily">Daily</string>
+    <string name="label_weekly">Weekly</string>
+    <string name="label_your_todo_list_is_empty">Your todo list is empty</string>
+    <string name="label_add_todo">Add todo</string>
+    <string name="label_title">Title</string>
+    <string name="label_description">Description</string>
+    <string name="label_date">Date</string>
+    <string name="time">Time</string>
+    <string name="label_add">add</string>
+    <string name="label_update">Update</string>
+    <string name="label_repeat_frequency">Repeat Frequency</string>
+    <string name="delete">Delete</string>
+
+</resources>
